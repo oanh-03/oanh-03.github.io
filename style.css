@@ -1,0 +1,27 @@
+.container{
+    max-width:900px;
+    margin: auto;
+}
+
+
+.column {
+    max-width: 300px;
+    float: left;
+
+}
+.thanhpho {
+     padding: 10px;
+     margin: auto;
+
+}
+.thanhpho>img {
+    width: 250px;
+    height:250px;
+
+}
+.thanhpho .ten {
+    color: red;
+    text-align: center;
+}
+
+
